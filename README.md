@@ -1,8 +1,8 @@
 # Effect-of-infection-on-migration-meta---analysis
 
-This is the code and data for our article "How does infection alter animal migration? A meta-analysis across experiemntal and observational studies" by Alice Risely, Marcel Klaassen, and Bethany Hoye.
+This is the code and data for our article "How does infection alter animal migration? A meta-analysis across experiemntal and observational studies" by Alice Risely, Marcel Klaassen, and Bethany Hoye. Publication details TBC.
 
-We carry uot the analysis with in the package Metafor.
+We carry out the analysis with the package Metafor.
 
 Source files:
 
