@@ -1,6 +1,6 @@
 ## R script for analysis in the article "Migratory animals feel the cost of infection: a meta-analysis across species"
-#Alice Risely, Marcel Klaassen, & Bethany Hoye
-# For full data sets (including excluded points due to unclear effect direction, etc), go to github.com/Riselya
+#Alice Risely, Marcel Klaassen, & Bethany Hoye, J. Animal Ecology 2015
+# Also available at github.com/Riselya
 
 ##R version 3.4.1
 ##contact riselya@gmail.com
