@@ -1,6 +1,6 @@
 # Effect-of-infection-on-migration: meta-analysis
 
-This is the code and data for our article "Migratory animals feel the cost of getting sick: a meta-analysis across species " by Alice Risely, Marcel Klaassen, and Bethany Hoye. Publication details TBC.
+This is the code and data for our article "Migratory animals feel the cost of getting sick: a meta-analysis across species " by Alice Risely, Marcel Klaassen, and Bethany Hoye. Journal of Animal Ecology, 2017.
 
 We carry out the analysis with the package Metafor.
 
